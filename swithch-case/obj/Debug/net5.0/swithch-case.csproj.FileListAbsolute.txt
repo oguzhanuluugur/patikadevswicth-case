@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\bin\Debug\net5.0\swithch-case.exe
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\bin\Debug\net5.0\swithch-case.deps.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\bin\Debug\net5.0\swithch-case.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\bin\Debug\net5.0\swithch-case.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\bin\Debug\net5.0\swithch-case.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\bin\Debug\net5.0\ref\swithch-case.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\bin\Debug\net5.0\swithch-case.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\obj\Debug\net5.0\swithch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\obj\Debug\net5.0\swithch-case.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\obj\Debug\net5.0\swithch-case.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\obj\Debug\net5.0\swithch-case.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\obj\Debug\net5.0\swithch-case.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\obj\Debug\net5.0\ref\swithch-case.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\obj\Debug\net5.0\swithch-case.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\swithch-case\obj\Debug\net5.0\swithch-case.genruntimeconfig.cache
